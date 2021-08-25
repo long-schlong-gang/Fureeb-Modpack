@@ -29,7 +29,7 @@ chosen by a weeb and half were chosen by an alleged furry.
 
 ### Util mods required by other mods
  - Mantle
- - Geckolib
+ - Geckolib 3
 
 If you want to install it and are new to Git (I don't see how you could be if you found this, but aight),
 either download the zip and extract it into your 'mods' folder, or run the following command in your mods folder:
