@@ -1,7 +1,7 @@
 # Fureeb-Modpack
 
-## Pack Version: 1.0
-## Game Version: 1.12.2
+ **Pack Version: 1.0**
+ **Game Version: 1.12.2**
 
 This is a modpack created by us, because the other ones
 had too many mods and crashed our server. Plus, there
@@ -19,17 +19,27 @@ chosen by a weeb and half were chosen by an alleged furry.
 
 ### Mods chosen by the weeb
  - Twilight Forest
- - Battle Towers
+ - Chocolate Quest Repoured
  - Infernal Mobs
 
 ### Mods chosen by both
  - Bibliocraft
  - Tinker's Construct
- - Mantle (Util)
+ - Mantle
+
+### Util mods required by other mods
+ - Mantle
+ - Geckolib
 
 If you want to install it and are new to Git (I don't see how you could be if you found this, but aight),
 either download the zip and extract it into your 'mods' folder, or run the following command in your mods folder:
 ```
-	git clone https://github.com/long-schlong-gang/Fureeb-Modpack .
+git clone https://github.com/long-schlong-gang/Fureeb-Modpack .
 ```
 (Make sure to copy the full-stop at the end as well.)
+
+If you've already cloned it and want to update it to the latest version, run the following commands in the mods folder:
+```
+git fetch
+git pull
+```
