@@ -1,6 +1,6 @@
 # Fureeb-Modpack
 
- **Pack Version: 1.2**
+ **Pack Version: 1.3**
  
  **Game Version: 1.12.2**
 
