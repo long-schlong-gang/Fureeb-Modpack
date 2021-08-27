@@ -1,6 +1,7 @@
 # Fureeb-Modpack
 
- **Pack Version: 1.0**
+ **Pack Version: 1.2**
+ 
  **Game Version: 1.12.2**
 
 This is a modpack created by us, because the other ones
